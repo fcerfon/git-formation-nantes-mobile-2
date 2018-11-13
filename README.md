@@ -6,7 +6,7 @@ Le cours consiste à savoir :
 
 
 1. Utiliser les commandes Git
-2. Utilisier GitHub en collaboration
+2. Utiliser GitHub en collaboration
 
 
 
