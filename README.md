@@ -1,4 +1,4 @@
-![Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" style="width:100%">
 # Repo de présentation de l'utilisation de **git**
 Le cours consiste à savoir :
 
